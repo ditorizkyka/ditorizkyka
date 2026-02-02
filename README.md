@@ -27,23 +27,26 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me
 
-Hey there! I'm **Andito Rizkyka Rianto**, a passionate **final-year Informatics student** at **Telkom University** specializing in **Artificial Intelligence**. I thrive at the intersection of **mobile development** and **AI**, creating intelligent applications that solve real-world problems.
+Hey there! I'm **Andito Rizkyka Rianto**, a **Mobile & AI Developer** who loves turning complex AI models into real, usable applications. I specialize in building **production-ready mobile apps** powered by **Computer Vision** and **Machine Learning**.
 
-With a **GPA of 3.92/4.00**, I've been deeply involved in building production-ready AI systems and deploying them into user-friendly mobile applications. My journey spans from dataset creation to model training, evaluation, and finally shipping features that users love.
+From building **healthcare education apps** with 3D anatomy visualizations to creating **real-time air quality monitoring systems**, I focus on shipping products that solve actual problems. My sweet spot is the complete pipeline: collecting data, training models, optimizing them, and deploying them into Flutter apps that people actually use.
 
-**🎯 What Drives Me:**
-- 🧠 Building **end-to-end AI systems** from research to production
-- 📱 Creating **seamless mobile experiences** with cutting-edge technology  
-- 👁️ Exploring **Computer Vision** applications in healthcare, environmental monitoring, and beyond
-- 🌍 Developing projects with **real social impact**
+**🚀 What I Do:**
+- 📱 Ship **production-ready mobile apps** with Flutter (clean architecture, state management, seamless UX)
+- 🤖 Build **Computer Vision solutions** using YOLO, TensorFlow, and custom models
+- 🔥 Deploy **AI into mobile apps** – from model training to TFLite optimization to real-time inference
+- 🌐 Create **full-stack web applications** with React and modern frameworks
 
-**🎓 Academic Excellence:**
-- **University:** Telkom University, Bandung
-- **Major:** Informatics (AI Focus)
-- **GPA:** 3.92/4.00
-- **Focus Areas:** Computer Vision, Machine Learning, Data Science, Mobile AI Integration
+**💼 Experience Highlights:**
+- Built **MedPelvis Mobile**: Educational app with 3D anatomy models and interactive childbirth simulations
+- Developed **Pollusafe**: Real-time air quality monitoring app with ML-based health recommendations
+- Created **InsightHire**: NLP-powered candidate screening system with automated job-fit analysis
+- Shipped multiple apps with **real-world impact** in healthcare, education, and environmental sectors
 
-**📍 Location:** Bandung, West Java, Indonesia 🇮🇩
+**🎯 My Approach:**
+> "Ship fast, iterate faster, and always keep the user in mind. The best AI is invisible AI."
+
+**📍 Based in:** Bandung, West Java, Indonesia 🇮🇩
 
 ---
 
