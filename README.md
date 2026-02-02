@@ -132,11 +132,6 @@ Modern, responsive interfaces with React and Tailwind CSS
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ditorizkyka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditorizkyka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ditorizkyka&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
