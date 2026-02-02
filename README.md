@@ -1,8 +1,10 @@
-<div align="center">
 
-# 👋 Hello, I'm Dito
+<div>
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=Hello%2C%20I'm%20Dito%20%F0%9F%91%8B;Mobile%20%26%20AI%20Developer" alt="Typing SVG" />
 
-### 📱 Mobile Developer • 🤖 AI Developer • 🎓 Informatics Student
+#### 📱 Mobile Developer • 🤖 AI Developer • 🎓 Informatics Student
+
 
 <p align="center">
   <a href="https://ditorizkyka.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
@@ -12,7 +14,7 @@
   <a href="https://wa.me/6281389018701"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.instagram.com/ditorizkyka_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ditorizkyka&label=Profile%20Views&color=0e75e9&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ditorizkyka?label=Followers&style=flat&color=22c55e" alt="Followers" />
@@ -23,7 +25,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me
 
 Hey there! I'm **Andito Rizkyka Rianto**, a passionate **final-year Informatics student** at **Telkom University** specializing in **Artificial Intelligence**. I thrive at the intersection of **mobile development** and **AI**, creating intelligent applications that solve real-world problems.
 
